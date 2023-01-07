@@ -56,6 +56,7 @@ This project is in the plannin stage of development.
 - Check out(admin)
 - Payment verification(admin)
 - Sign in/Sign out(admin)
+- Admin profile
 - Subscription cancel(admin)
 - CRUD(admin)
 - Metric tracking(admin)
