@@ -6,22 +6,71 @@ Cannvas is an ecommerce website where users can purchase goods & services that a
 
 ## Build Status
 
-This project is in the beginning stages of development.
+This project is in the plannin stage of development.
 
 ## Technologies
 
 ### Frontend
+#### UI
 
 - Angular
+
+#### Styling
+
 - CSS
 
 ### Backend
+#### API
 
 - Node.js
+
+#### Framework
+
 - Express.js
+
+#### Authentication
+
 - JWT
 - Bcrypt
+
+#### Storage
+
+- Google Firebase
+
+#### Web Server
+
+- Nginx
 
 ### Database
 
 - MongoDB
+
+### Payment Method
+
+- Stripe
+
+## Features
+### MVP
+
+- Admin sign up
+- Check out(admin)
+- Payment verification(admin)
+- Sign in/Sign out(admin)
+- Subscription cancel(admin)
+- CRUD(admin)
+- Metric tracking(admin)
+- Search(user)
+- Shopping cart(user)
+- CRUD(shopping cart)
+- Check out(user)
+- Payment verification(user)
+- Order tracking(admin/user)
+- Order return(user)
+
+### PMVP
+
+- User sign up
+- Sign in/Sign out(user)
+- User profile
+- CRUD (user profile)
+- User membership
